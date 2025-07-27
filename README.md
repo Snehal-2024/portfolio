@@ -23,7 +23,7 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 - `resume.pdf` – Resume file
 
 ## 🌐 Live Demo
-[Click here to view portfolio]([https://yourusername.github.io/your-repo-name/](https://github.com/Snehal-2024/portfolio.git))
+[Click here to view portfolio](https://github.com/Snehal-2024/portfolio.git))
 
 ## 📞 Contact
 Email: snehaldisale95@gmail.com
